@@ -1,0 +1,176 @@
+{
+  "content": [
+    {
+      "id": "video_1",
+      "title": "Sample 360 Video 1",
+      "resolution": "8K",
+      "type": "360",
+      "length": "00:10:00",
+      "description": "A sample 360 immersive video",
+      "videoEffects": {
+        "smell": {
+          "enabled": true,
+          "devices": [
+            {
+              "device_id": "smell_1",
+              "type": "rose_scent",
+              "events": [
+                {
+                  "time": "00:00:35"
+                },
+                {
+                  "time": "00:01:14"
+                }
+              ]
+            },
+          {
+          "device_id": "smell_2",
+          "type": "nature_scent",
+          "events": [
+            {
+              "time": "00:02:30"
+            }
+          ]
+        },
+        {
+          "device_id": "smell_3",
+          "type": "lavender_scent",
+          "events": [
+            {
+              "time": "00:03:45"
+            },
+             {
+              "time": "00:07:15"
+            }
+          ]
+        }
+          ]
+        },
+        "wind": {
+          "enabled": true,
+          "devices": [
+            {
+              "device_id": "fan_1",
+              "intensity": 1.0,
+              "timing": [
+                {
+                  "start": "00:01:15",
+                  "end": "00:01:25"
+                }
+              ]
+            },
+        {
+          "device_id": "fan_2",
+          "intensity": 0.8,
+          "timing": [
+            {
+              "start": "00:03:27",
+              "end": "00:03:30"
+            }
+          ]
+        },
+        {
+          "device_id": "fan_3",
+          "intensity": 1.2,
+          "timing": [
+            {
+              "start": "00:02:00",
+              "end": "00:02:15"
+            }
+          ]
+        }
+          ]
+        },
+        "heat": {
+          "enabled": true,
+          "devices": [
+            {
+              "device_id": "sun_1",
+              "intensity": 0.7,
+              "timing": [
+                {
+                  "start": "00:01:15",
+                  "end": "00:01:25"
+                }
+              ]
+            },
+        {
+          "device_id": "sun_2",
+          "intensity": 0.9,
+          "timing": [
+            {
+              "start": "00:03:27",
+              "end": "00:03:30"
+            }
+          ]
+        },
+        {
+          "device_id": "sun_3",
+          "intensity": 0.3,
+          "timing": [
+            {
+              "start": "00:06:57",
+              "end": "00:07:03"
+            }
+          ]
+        }
+          ]
+        }
+      }
+    },
+    {
+      "id": "video_2",
+      "title": "Sample 360 Video 2",
+      "resolution": "4K",
+      "type": "180",
+      "length": "00:05:00",
+      "description": "A second 180-degree immersive video",
+      "videoEffects": {
+        "smell": {
+          "enabled": true,
+          "devices": [
+            {
+              "device_id": "smell_2",
+              "type": "coffee_scent",
+              "events": [
+                {
+                  "time": "00:02:30"
+                }
+              ]
+            }
+          ]
+        },
+        "wind": {
+          "enabled": true,
+          "devices": [
+            {
+              "device_id": "fan_2",
+              "intensity": 0.8,
+              "timing": [
+                {
+                  "start": "00:03:27",
+                  "end": "00:03:30"
+                }
+              ]
+            }
+          ]
+        },
+        "heat": {
+          "enabled": true,
+          "devices": [
+            {
+              "device_id": "sun_2",
+              "intensity": 0.9,
+              "timing": [
+                {
+                  "start": "00:03:27",
+                  "end": "00:03:30"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
