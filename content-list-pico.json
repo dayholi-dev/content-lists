@@ -2,6 +2,11 @@
 	"content_items": [
 		{
 			"sdk_content_item": {
+				"url": "https://hls-eucentral-ll.dayholi.com:8088/live/livestream1.m3u8"
+			}
+		},
+		{
+			"sdk_content_item": {
 				"url": "https://destination-live-vr.s3.tebi.io/destination-cam1/cam1/manifest.json"
 			}
 		},
