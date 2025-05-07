@@ -2,13 +2,8 @@
 	"content_items": [
 		{
 
-		"sdk_content_item": {
-				"url": "https://test-stream.dayholi.com/live/livestream.m3u8"
-			}
-			
-			
 			"sdk_content_item": {
-				"url": "https://stream-eu-central-1.dayholi.com/live/livestream.m3u8"
+				"url": "https://test-stream.dayholi.com/live/livestream.m3u8"
 			}
 		},
 		{
