@@ -2,8 +2,8 @@
   "items": [
     {
       "available": "yes",
-      "description": "...",
-      "unique_id": "UnityGameDev_Live_2025_05_25",
+      "description": "Some livestream info",
+      "unique_id": "some_id",
       "update_description": "yes"
     }
   ]
