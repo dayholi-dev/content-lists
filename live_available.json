@@ -2,9 +2,9 @@
   "items": [
     {
       "available": "yes",
-      "description": "Some livestream info",
+      "description": "Riyadh livestream",
       "unique_id": "gaga_vr",
-      "update_description": "yes"
+      "update_description": "no"
     }
   ]
 }
