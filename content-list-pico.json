@@ -3,7 +3,7 @@
 		{
 
 			"sdk_content_item": {
-				"url": "https://destination-live-vr.s3.tebi.io/cam1-ll/Riyadh/master.m3u8"
+				"url": "http://datastream.tebi.io/destination-live-vr/destination-cam1/cam1/master.m3u8"
 			}
 		},
 		{
