@@ -1,5 +1,12 @@
-{
+{https://live-eu1.dayholi.com/live/livestream.m3u8
 	"content_items": [
+		{
+
+			"sdk_content_item": {
+				"url": "https://live-eu1.dayholi.com/live/livestream.m3u8"
+			}
+		},
+		
 		{
 
 			"sdk_content_item": {
