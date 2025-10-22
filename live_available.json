@@ -17,6 +17,12 @@
       "description": "Riyadh livestream",
       "unique_id": "shulin_vr",
       "update_description": "no"
+    },
+     {
+      "available": "no",
+      "description": "Riyadh livestream",
+      "unique_id": "fi_vr",
+      "update_description": "no"
     }
   ]
 }
